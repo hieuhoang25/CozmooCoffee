@@ -12,7 +12,7 @@
 ![alt](https://github.com/hieuhoang25/CozmooCoffee/blob/master/img/qlproducts.png)
 
 ## Products screen
-![alt](hhttps://github.com/hieuhoang25/CozmooCoffee/blob/master/img/products.png)
+![alt](https://github.com/hieuhoang25/CozmooCoffee/blob/master/img/products.png)
 1. Products Details
 ![alt](https://github.com/hieuhoang25/CozmooCoffee/blob/master/img/product%20details.png)
 
